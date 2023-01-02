@@ -10,7 +10,7 @@
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20vcXFkZGRkZGRkL3Z2dnYvcmF3L21hc3Rlci96Yg=="]}]}],
 
 "sites":[
-{"key":"csp_AppTT","name":"🍁图图〔SP〕","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1"},
+//{"key":"csp_AppTT","name":"🍁图图〔SP〕","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1"},
 {"key":"AppTT","name":"🍁图图〔🆕〕","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"110c922de7d69804467fb83d3bb664b5","jar":"./jar/cs.jar;md5;517cbee472fc544a9d629eec245dea63"},
 {"key":"csp_BuLei","name":"🍁布雷〔SP〕","type":3,"api":"csp_BuLei","searchable":1,"quickSearch":1,"filterable":1,"ext":"./js/布雷.js","jar":"./jar/布雷.jar"},
 {"key":"csp_xBPQ_诺讯影视","name":"🍁诺讯影视","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":0,"ext":"./json/诺讯影视.json"},
