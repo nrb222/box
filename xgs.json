@@ -1,7 +1,6 @@
 {
 //爬虫
-"spider": "./jar/xgs.jar;md5;d055164cce542bfec5de889c382f1ed6",
-
+"spider": "https://gitee.com/qqddddddd/vvvv/raw/master/jar/xgs.jar;md5;d055164cce542bfec5de889c382f1ed6",
 
 //壁纸
 "wallpaper": "https://tool.weetai.cn/api",
