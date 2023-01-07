@@ -1,7 +1,6 @@
 {
 //爬虫
-"spider": "https://114-233-56-5.d.cjjd20.com:30443/123-126/2b7e4707/1759225-0/2b7e470753c6497c29acf9bf8ae1607e?v=2&t=1672980664&s=b96cab32919db5e6be84140153cc508a&filename=xgs.jar&d=b53591e2;md5;2a88c959dd57a2b76e399f56dbc3997b",
-//壁纸
+"spider":"https://jihulab.com/nihenniu1/xgs/-/raw/main/jar/xgs.jar",
 "wallpaper": "https://tool.weetai.cn/api",
    
 //直播
@@ -23,7 +22,8 @@
 {"key":"Cokemv","name":"🍁可乐","type":"3","api":"csp_Dora","searchable":"1","quickSearch":"1","filterable":"1","ext":"b88de1329655cca1beba45aa9776de70","jar":"./jar/cs.jar;md5;517cbee472fc544a9d629eec245dea63"},
 {"key":"csp_Czsapp","name":"🕵厂长资源〔SP〕","type":3,"api":"csp_Czsapp","searchable":1,"quickSearch":1,"filterable":1,"jar":"./jar/xo.jar"},
 {"key":"csp_XBPQTVB影视","name":"️💢TVB云播","type":3,"api":"csp_xBPQ","searchable":1,"quickSearch":1,"filterable":1,"ext":"./json/TVB云播.json","jar":"./jar/TVB云播.jar"},
-{"key": "drpy_js_天空影视","name": " 🎑天空影视[DRPY]","type": 3,"api": "./js/drpy.min.js","ext": "./js/天空影视.js"},
+{"key": "drpy_js_天空影视","name": " 🎑天空影视[DRPY]","type": 3,"api": "./js/drpy.min.js","ext": "./js/天空影视.js"},https://114-233-56-5.d.cjjd20.com:30443/123-126/2b7e4707/1759225-0/2b7e470753c6497c29acf9bf8ae1607e?v=2&t=1672980664&s=b96cab32919db5e6be84140153cc508a&filename=xgs.jar&d=b53591e2;md5;2a88c959dd57a2b76e399f56dbc3997b",
+//壁纸
 {"key": "drpy_js_人人影视","name": " 🎑人人影视[DRPY]","type": 3,"api": "./js/drpy.min.js","ext": "./js/人人影视.js"},
 {"key":"csp_SP360","name": "💘360(官)","type": 3,"api": "csp_SP360","searchable": 1,"quickSearch": 1,"filterable": 1},
 //{"key": "py_bilimd","name": "💢B站影视(XB)","type": 3,"api": "py_bilimd","searchable": 1,"quickSearch": 1,"filterable": 1,"ext":"./json/B站影视.py"},
