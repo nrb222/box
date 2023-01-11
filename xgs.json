@@ -7,7 +7,7 @@
 "wallpaper": "https://tool.weetai.cn/api",
    
 //直播
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20vcXFkZGRkZGRkL3Z2dnYvcmF3L21hc3Rlci96Yg=="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naHByb3h5LmNvbS9odHRwczovL3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vbnJiMjIyL3hncy9tYWluL3pi"]}]}],
 
 "sites":[
 {"key":"csp_AppTT","name":"🍁图图〔SP〕","type":3,"api":"csp_AppTT","searchable":1,"quickSearch":1,"filterable":1},
